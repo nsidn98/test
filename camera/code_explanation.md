@@ -118,7 +118,7 @@ So each test[i] folder will contain images with almost the same scene taken with
 
 The naming of the files in each of the test[i] folder is `<exposure_time>_<gain>.bmp`.(`.bmp` stands for bitmap images)
 
-Argument `k` in the above function `clickPics()` is the test number. (for k=0 it will store in test0, for k=23 it will store in test23 folder)
+Argument `k` in the above function `clickPics()` is the test number. (for k=0 it will store in `test0`, for k=23 it will store in `test23` folder)
 
 ##### The final loop for clicking pictures
 ~~~
